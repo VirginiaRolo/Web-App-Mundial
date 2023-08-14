@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Dominio.Models.Partido>
+<h1>Todos los partidos</h1>
+
+<hr />
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Fecha
+            </th>
+            <th>
+                Selecciones enfrentadas
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+
+
+        @foreach (var it in Model)
+        {
+            <tr>
+                <td>
+                    @it.Fecha
+                </td>
+
+                @foreach (var i in it.VerSeleccionesEnfrentadas())
+                {
+                    <td>
+                        @i.Pais.Nombre
+                    </td>
+                }
+                <td>
+                    @if (!it.Finalizado)
+                    {
+                      @Html.ActionLink("Finalizar", "FinalizarPartido", "Partido", new { id = it.Id });
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

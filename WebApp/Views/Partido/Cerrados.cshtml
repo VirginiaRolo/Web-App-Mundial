@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Dominio.Models.Partido>
+<h1>Partidos cerrados</h1>
+
+<hr />
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Fecha
+                </th>
+                <th>
+                    Selecciones enfrentadas
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+
+
+            @foreach (var it in Model)
+            {
+                <tr>
+                    <td>
+                        @it.Fecha
+                    </td>
+
+                    @foreach (var i in it.VerSeleccionesEnfrentadas())
+                    {
+                        <td>
+                            @i.Pais.Nombre
+                        </td>
+
+                    }
+                    <td>
+                        @Html.ActionLink("Nueva reseña", "NuevaResenia", "Resenia", new { id = it.Id })
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+}
+
+

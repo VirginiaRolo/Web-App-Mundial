@@ -1,0 +1,17 @@
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache

@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Dominio.Models.Resenia>
+
+<h1>Mis reseñas</h1>
+
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Título
+                </th>
+                <th>
+                    Contenido
+                </th>
+                <th>
+                    Selecciones enfrentadas
+                </th>
+
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>
+                        @item.Titulo
+                    </td>
+                    <td>
+                        @item.Contenido
+                    </td>
+                    @foreach (var i in item.Partido.VerSeleccionesEnfrentadas())
+                    {
+                        <td>
+                            @i.Pais.Nombre
+                        </td>
+                    }
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+  <p>@ViewBag.msg</p>
+
+
+

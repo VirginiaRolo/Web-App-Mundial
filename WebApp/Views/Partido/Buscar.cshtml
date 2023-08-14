@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Dominio.Models.Partido>
+
+<h1>Buscar partidos entre fechas</h1>
+
+<form method="post">
+    <div class="form-group">
+        <input type="date" name="f1" class="form-control">
+        <input type="date" name="f2" class="form-control">
+        <input type="submit" value="Buscar" class="btn btn-primary" />
+    </div>
+</form>
+<p>@ViewBag.msgBusqueda</p>
+
+
+@if (Model != null)
+{
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Información del partido
+                </th>
+                  
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>
+                        @item.ToString();
+                    </td>                 
+                    
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+

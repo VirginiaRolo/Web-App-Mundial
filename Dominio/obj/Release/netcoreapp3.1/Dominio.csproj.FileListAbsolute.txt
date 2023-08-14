@@ -1,0 +1,10 @@
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\Dominio\bin\Release\netcoreapp3.1\Dominio.deps.json
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\Dominio\bin\Release\netcoreapp3.1\Dominio.dll
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\Dominio\bin\Release\netcoreapp3.1\Dominio.pdb
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\Dominio\obj\Release\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\Dominio\obj\Release\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\Dominio\obj\Release\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\Dominio\obj\Release\netcoreapp3.1\Dominio.AssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\Dominio\obj\Release\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\Dominio\obj\Release\netcoreapp3.1\Dominio.dll
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\Dominio\obj\Release\netcoreapp3.1\Dominio.pdb

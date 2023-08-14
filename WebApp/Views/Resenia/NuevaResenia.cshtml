@@ -1,0 +1,32 @@
+﻿@model Dominio.Models.Resenia
+<h1>Realizar nueva reseña</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+
+        <h2>Partido</h2>
+
+        <p>@ViewBag.SeleccionesEnfrentadas</p>
+
+        <form method="post">
+            <div class="form-group">
+                <label class="control-label">Titulo</label>
+                <input asp-for="Titulo" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label for="control-label">Contenido</label>
+                <textarea asp-for="Contenido" class="form-control" rows="3"></textarea>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<p>@ViewBag.msg</p>
+<div>
+    <a asp-controller="Partido" asp-action="Cerrados">Volver a la lista</a>
+</div>

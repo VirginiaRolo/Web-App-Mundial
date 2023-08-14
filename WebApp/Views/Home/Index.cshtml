@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Dominio.Models.Seleccion>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Copa Mundial de la FIFA Catar 2022</h1>
+    <p>Más información:  <a href="https://www.fifa.com/fifaplus/es/tournaments/mens/worldcup/qatar2022">Sitio oficial</a></p>
+
+    <p>
+        @ViewBag.msg
+    </p>
+</div>
+
+
+<h4>Selecciones que participan</h4>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                País
+            </th>
+
+            <th>Jugadores</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Pais.Nombre
+                </td>
+                <td>
+                    @Html.ActionLink("Ver jugadores", "VerJugadores", "Seleccion", new { nombrePais = item.Pais.Nombre })
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

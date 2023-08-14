@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Dominio.Models.Partido>
+
+<h1>Buscar partidos en reseñas de periodista</h1>
+
+<form method="post">
+    <input type="email" name="email" placeholder="Ingrese email">
+
+    <input type="submit" value="Buscar" />
+
+</form>
+<p>@ViewBag.msgBusqueda</p>
+
+
+@if (Model != null)
+{
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Partidos con tarjeta roja reseñados por el periodista
+                </th>          
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+
+                <td>
+                    @item.ToString();
+                </td>
+            
+
+            </tr>
+            }
+        </tbody>
+    </table>
+
+}

@@ -1,0 +1,21 @@
+﻿@model Dominio.Models.Partido
+
+<h1>Finalizar partido</h1>
+
+<h3>¿Está seguro que desea finalizar el partido seleccionado?</h3>
+
+<div>
+    <form method="post">
+
+        <input type="submit" value="Finalizar" class="btn btn-danger" />
+        @Html.CheckBox("IsChecked") <span>Haga click aquí para finalizar el partido</span>
+               
+            <p>@Model.InfoPartido()</p>
+        
+    </form>
+
+  
+
+</div>
+<p>@ViewBag.msg</p>
+<a asp-action="Index">Volver a la lista</a>

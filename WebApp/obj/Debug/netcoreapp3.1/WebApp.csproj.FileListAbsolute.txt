@@ -1,0 +1,746 @@
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Pack.cache
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 17_ 0857\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\RealizarResenia.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Cerrados.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\NuevaResenia.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.StaticWebAssets.xml
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Pack.cache
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccesoDenegado.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Cerrados.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 18_1214\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\NuevaResenia.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.StaticWebAssets.xml
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Pack.cache
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccesoDenegado.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Cerrados.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\NuevaResenia.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 19_1252\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerResenias.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccesoDenegado.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Cerrados.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\NuevaResenia.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerResenias.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 19_1926\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerReseniasDeP.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.StaticWebAssets.xml
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Pack.cache
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccesoDenegado.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Cerrados.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\NuevaResenia.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerResenias.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerReseniasDeP.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 21_1914\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccesoDenegado.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Cerrados.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\NuevaResenia.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerResenias.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerReseniasDeP.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+C:\Users\Silver-II\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Buscar.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.xml
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp.styles.css
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccesoDenegado.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Buscar.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\BuscarPorPeriodista.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Cerrados.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\NuevaResenia.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerResenias.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerReseniasDeP.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\maild\Desktop\Obligatorio02_2022 11 21_2104\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.StaticWebAssets.xml
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Pack.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccesoDenegado.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Buscar.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\BuscarPorPeriodista.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Cerrados.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\NuevaResenia.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerResenias.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerReseniasDeP.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 22_2038\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.StaticWebAssets.xml
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Pack.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccesoDenegado.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Buscar.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\BuscarPorPeriodista.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Cerrados.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\NuevaResenia.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerResenias.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerReseniasDeP.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\FinalizarPartido.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 22_2250\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerSeleccionesGoleadoras.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.StaticWebAssets.xml
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Pack.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccesoDenegado.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Buscar.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\BuscarPorPeriodista.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Cerrados.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\FinalizarPartido.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\NuevaResenia.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerResenias.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerReseniasDeP.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerSeleccionesGoleadoras.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 23_2242\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.StaticWebAssets.xml
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Pack.cache
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApp.props
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccesoDenegado.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Buscar.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\BuscarPorPeriodista.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Cerrados.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\FinalizarPartido.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\NuevaResenia.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerResenias.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerReseniasDeP.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerSeleccionesGoleadoras.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+F:\Escritorio\Obligatorio02_2022 11 24_1225\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.StaticWebAssets.xml
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Pack.cache
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApp.props
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccesoDenegado.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Buscar.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\BuscarPorPeriodista.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Cerrados.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\FinalizarPartido.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\NuevaResenia.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerResenias.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerReseniasDeP.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerSeleccionesGoleadoras.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\black\OneDrive\Documentos\ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.StaticWebAssets.xml
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.exe
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.deps.json
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.json
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.runtimeconfig.dev.json
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.dll
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.AssemblyReference.cache
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfoInputs.cache
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.AssemblyInfo.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cache
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorAssemblyInfo.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Manifest.cache
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.StaticWebAssets.Pack.cache
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApp.props
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.input.cache
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.TagHelpers.output.cache
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorCoreGenerate.cache
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\AccesoDenegado.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Buscar.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\BuscarPorPeriodista.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Cerrados.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\FinalizarPartido.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Partido\Index.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Create.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Periodista\Index.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\NuevaResenia.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerResenias.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Resenia\VerReseniasDeP.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerJugadores.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Seleccion\VerSeleccionesGoleadoras.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.Views.pdb
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.dll
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.pdb
+C:\Users\black\OneDrive\Documentos\_ATI ORT\2022\C_2do semestre\Programación 2\Obligatorio02_2022 11 24_1930\Obligatorio02\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache

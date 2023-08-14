@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Dominio.Models.Resenia>
+
+<h1>Reseñas</h1>
+
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Título
+                </th>
+                <th>
+                    Contenido
+                </th>
+                <th>
+                    Información del partido
+                </th>
+               
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>
+                        @item.Titulo
+                    </td>
+                    <td>
+                        @item.Contenido
+                    </td>
+                  @*  <td>
+                        @item.Fecha
+                    </td>*@
+                    <td>
+                        @item.Partido.ToString();
+                    </td>
+                 @*   @foreach (var i in item.Partido.VerSeleccionesEnfrentadas())
+                    {
+                        <td>
+                            @i.Pais.Nombre
+                        </td>
+
+                    }*@
+
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+else
+{
+    <p>No existen reseñas</p>
+}
+
+
+
